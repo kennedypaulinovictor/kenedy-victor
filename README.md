@@ -1,6 +1,6 @@
 # kenedy-victor
 
-# 👋 Hi, I'm Kenny Sama!
+# 👋 Hi, I'm Kenedy victor
 
 🐍 I love working with Python — it's my main tool for both data analysis and cybersecurity.  
 💼 I'm a Data Analyst and also work in the field of Cybersecurity.  
